@@ -1,0 +1,23 @@
+table{
+  margin: auto;
+}
+
+td{
+  width: 150px;
+  height:150px;
+  border: 1px solid #f5f58e;
+  border-width: thick;
+  font-size: 100px;
+  text-align: center;
+  background-color: #085e0a;
+}
+
+#turn{
+  color: red;
+  font-size: 40px;
+  text-align: center;
+  background: #085e0a;
+  width: 200px;
+  height: 50px;
+  margin: auto;
+}
